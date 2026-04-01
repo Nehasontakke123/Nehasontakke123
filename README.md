@@ -40,7 +40,7 @@ Dynamic Institutional Web Application
 
 Name: Neha Sontakke Email: nehasontakke1880@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/neha-sontakke
+LinkedIn: https://www.linkedin.com/in/neha-sontakke-9a1b4b34b/
 
 Portfolio: https://neha-portfolio-3fur.vercel.app
 
